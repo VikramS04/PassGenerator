@@ -106,13 +106,6 @@ function App() {
           Characters 
           </label>
         </div>
-        {/* <div className='bg-sky-400 rounded-xl '>
-          <button onClick={()=>{ console.log(password) }
-          }>
-            Generate Pass!
-          </button>
-        </div> */}
-
       </div>
     </div>  
     </>
